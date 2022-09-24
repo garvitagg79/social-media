@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "login",
+    "slug": "login",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./images/linkedin.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./images/linkedin.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./images/linkedin.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./images/linkedin.png"
+    }
+  }
+}
